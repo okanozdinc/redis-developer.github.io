@@ -248,7 +248,7 @@ module.exports = {
           items: [
             {
               label: 'Community',
-              href: 'https://redis.com/community/',
+              href: '/community/',
             },
             {
               label: 'Redis University',

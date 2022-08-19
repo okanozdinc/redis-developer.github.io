@@ -124,8 +124,7 @@ function Resources() {
 
         <div className="cta">
           <a
-            href="https://redis.com/community/"
-            target="_blank"
+            href="/community/"
             rel="noopener"
             className="btn">
             Join the community
